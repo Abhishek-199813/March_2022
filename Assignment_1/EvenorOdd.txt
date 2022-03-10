@@ -1,0 +1,7 @@
+Check the given number is Even or Odd?
+
+step 1 : Start
+step 2 : Accept the number to check wheather it's even or odd.
+step 3 : mod the input number by 2
+step 4 : if the ans is 1 print it's odd or print it's odd
+step 5 : stop

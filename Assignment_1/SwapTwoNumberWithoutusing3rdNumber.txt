@@ -1,0 +1,10 @@
+Check the given number is Even or Odd?
+
+step 1 : Start
+step 2 : Accept two number a and b to swap them.
+step 3 : add number a and b and store this result in a 
+step 4 : subtract b from the resultant a and store the result into b
+step 5 : now subtract the latest result of b from a and store the value into a
+step 6 : print the final a and b.
+step 7 : stop
+

@@ -1,0 +1,11 @@
+
+
+step 1 : Start
+step 2 : accept a number n to print it's factors.
+step 3 : initialize 'a' variable to 1.
+step 4 : check if n%a==0  if yes than goto step 5, else goto step6
+step 5 : print the value of a
+step 6 : increment the value of a by 1 and goto step 4.
+step 6 : stop
+
+

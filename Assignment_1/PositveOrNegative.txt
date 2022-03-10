@@ -1,0 +1,9 @@
+Check the given number is Even or Odd?
+
+step 1 : Start
+step 2 : Accept a number 'a'  to check if it's a negative or positve number.
+step 3 : check if a is equal to zero if not than check a is less than zero . 
+step 4 : if a is less than zero than print negative number or else print positive number
+step 5 : stop
+
+

@@ -1,0 +1,10 @@
+Check the given number is Even or Odd?
+
+step 1 : Start
+step 2 : Accept a number 'a'  to check if it's a leap year or not.
+step 3 : if a%4==0 and a%100!=0 or if a%4==0 and a%400==0 then go to step 4 else go to step 5
+step 4 : print it's a leap year
+step 5 : print it's not a leap year
+step 6 : stop
+
+

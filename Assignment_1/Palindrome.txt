@@ -1,0 +1,10 @@
+
+
+step 1 : Start
+step 2 : accept a number and hold that number in temperoy variable.
+step 3 : reverse the number
+step 4 : compare the temperory number with reversed number
+step 5 : if both the numbers are same print number is palindrome or else number is not palindrome
+step 6 : stop
+
+

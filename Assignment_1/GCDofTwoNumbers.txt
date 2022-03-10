@@ -1,0 +1,10 @@
+
+
+step 1 : Start
+step 2 : accept two numbers a and b Number and initialize a variable gcd to 1.
+step 3 : initialize i=1 , check if i <= a and i<=b if yes than goto step 4 or else goto step 6
+step 4 : check if a%i==0 and b%i==0 if yes than initilize the value to gcd and increment the value of i by 1 and goto step 3
+step 5 : print the value of gcd.
+step 6 : stop
+
+

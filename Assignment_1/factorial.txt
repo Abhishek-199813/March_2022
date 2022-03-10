@@ -1,0 +1,8 @@
+Check the given number is Even or Odd?
+
+step 1 : Start
+step 2 : Accept the number to find it's factorial.
+step 3 : Assign that integer to a variable.
+step 4 : from the value upto 1, multiply each digit and update the value
+step 5 : display the final value , which will be your factorial
+step 6 : stop

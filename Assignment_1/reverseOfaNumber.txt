@@ -1,0 +1,9 @@
+
+
+step 1 : Start
+step 2 : accept a Number and initialize a variable n to 0.
+step 3 : if a >= 1, use equaltion n=a%10 and print value of n
+step 4 : update a=a/10 and go to step 3.
+step 5 : stop
+
+

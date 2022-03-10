@@ -1,0 +1,10 @@
+
+
+step 1 : Start
+step 2 : accept a number n to print it's digit.
+step 3 : use equation a=n%10 and print the value of a.
+step 4 : now update the value of n by using equation n=n/10 
+step 5 : check if n >= 1, if yes go to step 6 or else go to step 3.
+step 6 : stop
+
+

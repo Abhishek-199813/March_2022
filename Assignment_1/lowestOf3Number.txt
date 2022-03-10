@@ -1,0 +1,10 @@
+
+
+step 1 : Start
+step 2 : accept a three numbers a,b,c.
+step 3 : check if a is smaller than b and c if yes print a is smallest and goto step 6 or else goto step 4.
+step 4 : check if b is smaller than a and c if yes print b is smallest and goto step 6 or else goto step 5.
+step 5 : print c is smallest and goto step6
+step 6 : stop
+
+

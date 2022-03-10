@@ -1,0 +1,6 @@
+step 1: start
+step 2: initialize 'a' variable to 1 and accept a number n.
+step 3: check if a<=n if yes than goto step 4.
+step 4: check if a%2==0 , if yes than print it in even number series and goto step 5.
+step 5: increment the value of a by 1 and goto step 3
+step 6: stop

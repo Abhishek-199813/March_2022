@@ -1,0 +1,13 @@
+Check the given number is Even or Odd?
+
+step 1 : Start
+step 2 : Accept the number n to find it's factorial.
+step 3 : create a function for ex factorial(n) and pass that number to it's arguement
+step 4 : print factorial f
+step 5 : stop
+
+factorial(n)
+step 1: if n==1 then return 1
+step 2: else
+	f=n*factorial(n-1)
+step 3: return f

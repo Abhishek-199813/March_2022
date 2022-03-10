@@ -1,0 +1,9 @@
+Check the given number is Even or Odd?
+
+step 1 : Start
+step 2 : initialize the value of n to 1
+step 3 : check if n<=1 if yes than go to step 4
+step 4 : print the value of n and increment the value by +1 and print next value
+step 5 : stop
+
+

@@ -1,0 +1,12 @@
+
+
+step 1 : Start
+step 2 : accept a number n to print it's digits' sum.
+step 3 : initialize 'a' variable to 1 and variable 'sum' and initialize it to 0.
+step 4 : check if n >= 1  if yes than goto step 5, else goto step 8.
+step 5 : use equaltion a=a%10 and add it to equation sum=sum+a.
+step 6 : update the value of n by n/10 and go to step 4
+step 7 : print the value of sum
+step 8 : please enter positive number , goto step 4
+step 9 : stop
+
